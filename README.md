@@ -4,7 +4,7 @@
 
 # 🏠 House Price Prediction
 
-**[🔗 Try the live app →](REPLACE_WITH_YOUR_STREAMLIT_URL)**
+**[🔗 Try the live app →](https://house-price-regression-kb4jfwoibvxxknmnfeyte9.streamlit.app/)**
 
 An end-to-end regression project that predicts residential **price per unit area** from three
 property features, compares three regression models, and is deployed as a live, interactive web app.
